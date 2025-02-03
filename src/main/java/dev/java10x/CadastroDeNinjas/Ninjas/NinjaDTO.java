@@ -12,10 +12,10 @@ public class NinjaDTO {
 
     private Long id;
     private String nome;
-    private int idade;
-    private String imgUrl;
     private String email;
-    private MissoesModel missoes;
+    private String imgUrl;
+    private int idade;
     private String rank;
+    private MissoesModel missoes;
 
 }
